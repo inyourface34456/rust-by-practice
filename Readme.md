@@ -1,4 +1,5 @@
 <div align="center">
+    <a href="https://trendshift.io/repositories/1684?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-1684" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/1684" alt="origin-bi%2Frust-by-practice | Trendshift" width="250" height="55"/></a>
     <img src="https://github.com/sunface/rust-by-practice/blob/master/en/assets/header.jpg?raw=true">
 </div>
 
